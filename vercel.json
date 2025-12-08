@@ -1,7 +1,6 @@
 {
-  "buildCommand": "cd base-mini && npm install && npm run build",
-  "installCommand": "cd base-mini && npm install",
+  "buildCommand": "cd base-mini && npm run build",
+  "installCommand": "npm install",
   "outputDirectory": "base-mini/.next",
-  "framework": "nextjs",
-  "rootDirectory": "base-mini"
+  "framework": "nextjs"
 }

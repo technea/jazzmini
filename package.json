@@ -1,0 +1,14 @@
+{
+  "name": "jazzmini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd base-mini && npm run dev",
+    "build": "cd base-mini && npm run build",
+    "start": "cd base-mini && npm run start",
+    "lint": "cd base-mini && npm run lint"
+  },
+  "workspaces": [
+    "base-mini"
+  ]
+}
