@@ -1,0 +1,3 @@
+[submodule "base-mini"]
+	path = base-mini
+	url = https://github.com/technea/base-jsquiz.git
